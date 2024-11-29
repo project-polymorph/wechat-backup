@@ -11,7 +11,7 @@
 - 跨性别生活
 - 跨性别同号交流圈
 - 跨性别兄弟盟
-- 岭南酷儿Center
+- 岭南酷儿Lingnan queer
 - 其力无穷
 - 同语II
 - 性别梦GenderDream
