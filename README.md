@@ -1,6 +1,6 @@
 # 已收集的公众号列表
 
-- 北同文化AllForQueer
+- 北同文化AllForQueer（已统计）
 - 翻山fanshan
 - 寒蝉之书
 - 后生价值EnGender
@@ -23,6 +23,6 @@
 - RoseCosmos
 - UltraViolet 紫外
 - YOUTHING有性青年
-- | 本来模样 |
+- | 本来模样 |（已统计已打包）
 
 [排序用](http://life.chacuo.net/converttextsort)
