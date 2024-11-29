@@ -1,7 +1,7 @@
 # 已收集的公众号列表
 
 - 北同文化AllForQueer（已统计）
-- 翻山fanshan
+- 翻山fanshan（已统计已打包）
 - 寒蝉之书
 - 后生价值EnGender
 - 季华多元Diversified Jihua
