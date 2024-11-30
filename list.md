@@ -13,7 +13,7 @@
 - 跨性别兄弟盟
 - 岭南酷儿Lingnan queer
 - 其力无穷
-- 同语II
+- 同语III
 - 性别梦GenderDream
 - 游子跨越日志记录
 - 予荫家庭救助
