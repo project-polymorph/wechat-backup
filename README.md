@@ -22,9 +22,9 @@
 |约翰斯库|✅|✅|2024-11-07|
 |BIE别的女孩|✅|❌|2024-11-13|
 |CW多棱镜|✅|✅|2024-11-22|
-|Queer Squad||||
-|RYV Official||||
-|RoseCosmos||||
+|Queer Squad|✅|❌|2024-03-31|
+|RYV Official|✅|✅|2022-11-13|
+|RoseCosmos|✅|✅|2023-11-23|
 |UltraViolet 紫外||||
 |YOUTHING有性青年||||
 |｜ 本来模样 ｜|✅|✅|20241123|
