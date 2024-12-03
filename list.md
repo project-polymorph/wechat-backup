@@ -17,6 +17,7 @@
 - 岭南酷儿Lingnan queer
 - 其力无穷
 - 同语III
+- 小悟生心理
 - 性别梦GenderDream
 - 游子跨越日志记录
 - 予荫家庭救助
