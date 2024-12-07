@@ -36,36 +36,37 @@
 
 |公众号名称|类型|是否统计|是否打包|最后更新时间|最后抓取时间|备注|
 |-|-|-|-|-|-|-|
-|薄荷巧克力冰激凌|||||||
-|北同文化AllForQueer|||||||
-|翻山fanshan|||||||
-|寒蝉之书|||||||
-|后生价值EnGender|||||||
-|坏酷儿厨房bad queer cook|||||||
-|季华多元Diversified Jihua|||||||
-|跨儿说TransTalks|||||||
-|跨儿心理|||||||
-|跨青年|||||||
-|跨性别热线|||||||
-|跨性别生活|||||||
-|跨性别同号交流圈|||||||
-|跨性别兄弟盟|||||||
-|岭南酷儿Lingnan queer|||||||
-|其力无穷|||||||
-|同语III||||||内容少 [第三方备份](https://github.com/Commonlanguage/Commonlanguage.github.io)|
-|万花脆脆筒|||||||
-|小悟生心理|||||||
-|性别梦GenderDream|||||||
-|游子跨越日志记录|||||||
-|予荫家庭救助|||||||
-|约翰斯库|||||||
-|BIE别的女孩|||||||
-|CW多棱镜|||||||
-|EINFachFEMINISMUS||||||TERF号|
-|Queer Squad|||||||
-|QueerMouseCave|||||||
-|RYV Official|||||||
-|RoseCosmos|||||||
-|UltraViolet 紫外|||||||
-|YOUTHING有性青年|||||||
-|｜ 本来模样 ｜|||||||
+|薄荷巧克力冰激凌|个人||||||
+|北同文化AllForQueer|组织||||||
+|翻山fanshan|组织||||||
+|寒蝉之书|个人||||||
+|后生价值EnGender|组织||||||
+|坏酷儿厨房bad queer cook|个人||||||
+|季华多元Diversified Jihua|个人||||||
+|跨儿说TransTalks|个人||||||
+|跨儿心理|个人||||||
+|跨青年|个人||||||
+|跨性别热线|个人||||||
+|跨性别生活|个人||||||
+|跨性别同号交流圈|个人||||||
+|跨性别兄弟盟|个人||||||
+|岭南酷儿Lingnan queer|个人||||||
+|其力无穷|个人||||||
+|同语III|个人|||||内容少 [第三方备份](https://github.com/Commonlanguage/Commonlanguage.github.io)|
+|万花脆脆筒|个人||||||
+|小悟生心理|组织||||||
+|性别梦GenderDream|组织||||||
+|游子跨越日志记录|个人||||||
+|予荫家庭救助|个人||||||
+|约翰斯库|个人||||||
+|镇镇的彩虹|组织||||||
+|BIE别的女孩|组织||||||
+|CW多棱镜|个人||||||
+|EINFachFEMINISMUS|个人|||||TERF号|
+|Queer Squad|个人||||||
+|QueerMouseCave|个人||||||
+|RYV Official|个人||||||
+|RoseCosmos|组织||||||
+|UltraViolet 紫外|个人||||||
+|YOUTHING有性青年|组织||||||
+|｜ 本来模样 ｜|个人||||||
