@@ -52,6 +52,7 @@
 |跨性别兄弟盟|个人||||||
 |岭南酷儿Lingnan queer|个人||||||
 |其力无穷|个人||||||
+|深圳夕颜|组织||||||
 |同语III|个人|||||内容少 [第三方备份](https://github.com/Commonlanguage/Commonlanguage.github.io)|
 |万花脆脆筒|个人||||||
 |小悟生心理|组织||||||

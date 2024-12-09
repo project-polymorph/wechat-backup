@@ -1,5 +1,0 @@
-exclude:
-  - package
-  - package_old
-  - xlsx
-  - xlsx_old
