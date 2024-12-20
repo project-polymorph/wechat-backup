@@ -1,6 +1,7 @@
 # 已收集的公众号列表
 
 - 爱同行 夕颜
+- 伴你同行BYS
 - 薄荷巧克力冰激凌
 - 北同文化AllForQueer
 - 翻山fanshan
@@ -32,6 +33,7 @@
 - 镇镇的彩虹
 - BIE别的女孩
 - CW多棱镜
+- C先生不姓陈
 - EINFachFEMINISMUS
 - OUTstanding出彩
 - Queer Squad
