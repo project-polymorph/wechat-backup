@@ -1,6 +1,7 @@
 # 已收集的公众号列表
 
 - 爱同行 夕颜
+- 安娜的五百英镑离岛
 - 伴你同行BYS
 - 薄荷巧克力冰激凌
 - 北同文化AllForQueer
@@ -29,9 +30,9 @@
 - 性别梦GenderDream
 - 游子跨越日志记录
 - 予荫家庭救助
-- 约翰斯库
 - 镇镇的彩虹
 - BIE别的女孩
+- Basisstation
 - CW多棱镜
 - C先生不姓陈
 - EINFachFEMINISMUS
