@@ -27,6 +27,7 @@
 - 甜瓜冻跨儿健康
 - 同语III
 - 万花脆脆筒
+- 西西弗的路标
 - 小麦哲伦星云日记
 - 小悟生心理
 - 性别梦GenderDream
@@ -46,6 +47,7 @@
 - RoseCosmos
 - UltraViolet 紫外
 - YOUTHING有性青年
+- tony人类研究所
 - | 本来模样 |
 
 [排序用](http://life.chacuo.net/converttextsort)
