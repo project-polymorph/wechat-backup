@@ -5,6 +5,7 @@
 - 伴你同行BYS
 - 薄荷巧克力冰激凌
 - 北同文化AllForQueer
+- 边缘人变装
 - 翻山fanshan
 - 寒蝉之书
 - 后生价值EnGender
@@ -18,6 +19,7 @@
 - 跨性别同号交流圈
 - 跨性别兄弟盟
 - 跨性别在线
+- 岭南酷儿
 - 岭南酷儿Lingnan queer
 - 女泉
 - 其力无穷
@@ -37,6 +39,7 @@
 - C先生不姓陈
 - EINFachFEMINISMUS
 - OUTstanding出彩
+- Qmmunity
 - Queer Squad
 - QueerMouseCave
 - RYV Official
